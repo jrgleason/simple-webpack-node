@@ -1,3 +1,3 @@
-import { Test } from "@ccb-praestoanaly/test-lib";
+import { Test } from "@mine/test-lib";
 console.log("Works");
 const x = new Test();
